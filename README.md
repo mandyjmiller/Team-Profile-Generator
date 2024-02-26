@@ -17,6 +17,8 @@ Instructions for use:  The application will be invoked by using the following co
 ## Usage
 Uses node.js and the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
+![screenshot](assets/screenshot.png)</a>
+
 
 ## License
 <a href = https://choosealicense.com/licenses/mit/> ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)</a> <br>
