@@ -129,5 +129,5 @@ function generateHTML() {
   console.log('Team profile successfully generated!');
 }
 
-// Start by prompting for the team manager's information
+// Prompt for inputting team info.
 promptUser();
